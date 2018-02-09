@@ -6,6 +6,8 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
+#test 1.0
+
 team_name = 'Team Sam and Josiah' # Only 10 chars displayed.
 strategy_name = 'The name the team gives to this strategy'
 strategy_description = 'How does this strategy decide?'
